@@ -19,3 +19,4 @@ Este temario y ejercicios realizados corresponden al IES Ágora de Cáceres en e
 - Sistemas de Gestión Empresarial
 
 Alex
+ola me yamo halex
